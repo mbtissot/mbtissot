@@ -3,7 +3,7 @@
 - 🌱 I enjoy to always have something to learn, so i am constantly trying to find new things to study and improve on. 
 - :computer: My programs are mainly math and physics related, but the thing i enjoy the most about coding is the problem solving aspect of it, so any problems are nice to work on :smiley:
 - 😄 My pronouns are He/Him
-- :speech_baloon: You can contact me in both english and portuguese, and i will respond as soon as possible :smiley:
+- :speech_balloon: You can contact me in both english and portuguese, and i will respond as soon as possible :smiley:
 
 
 ### Languages and Tools :
